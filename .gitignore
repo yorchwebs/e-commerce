@@ -11,3 +11,5 @@ db.sqlite3
 ecommerce.sql
 
 __pycache__/
+
+.vscode/
